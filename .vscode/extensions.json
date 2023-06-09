@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "nomicfoundation.hardhat-solidity",
+    "svelte.svelte-vscode",
+    "tamasfe.even-better-toml"
+  ]
+}
